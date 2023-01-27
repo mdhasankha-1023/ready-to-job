@@ -1,0 +1,20 @@
+body{
+    background-color: #03203C;
+}
+a{
+
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color: #03203C;
+}
+.side-bg-color{
+    background-color: #02B290;
+}
+.footer{
+    position: fixed;
+    top: 90%;
+    text-align: center;
+    background-color: #242B2E;
+}
